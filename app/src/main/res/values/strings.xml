@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CRBot</string>
+    <string name="cr_not_installed">Clash Royale is not installed on this device.</string>
+    <string name="error_copying_prefs">Something went wrong while copying preferences.</string>
+    <string name="error_finding_account">No account informations available. Try run the game and get back.</string>
+</resources>
